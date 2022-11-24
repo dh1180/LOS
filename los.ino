@@ -1,7 +1,7 @@
 #include "UbidotsEsp32Mqtt.h"   
 #define WIFI_SSID "studyroom"          
-#define WIFI_PASS "studyroom"
-#define UBIDOTS_TOKEN "BBFF-tA6sBL2UsR56MktBzHeEMHgJ5WKtaK" 
+#define WIFI_PASS "비밀"
+#define UBIDOTS_TOKEN "비밀" 
 #define DEVICE_LABEL "coding" 
 #define distance_LABEL "distance"
 
